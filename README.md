@@ -41,6 +41,9 @@ Or build the app and run in production mode
   npm start
 ```
 
+## Environment variables
+Don't forget to add a `.env.local` environment variables file with the variables shown in `.env.sample`
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)

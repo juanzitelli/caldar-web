@@ -28,10 +28,17 @@ Install dependencies
   npm install
 ```
 
-Start the server
+Start the server on development mode
 
 ```bash
-  npm run start
+  npm run dev
+```
+
+Or build the app and run in production mode
+
+```bash
+  npm run build
+  npm start
 ```
 
 ## License
